@@ -34,8 +34,9 @@ class BSTnode:
         self.leftchild = None
         self.keyval = keyval
         self.rightchild = None
-        self.count = 1
-
+        """This  variable is used to store the count of the
+        repeating elements(keys) in the input without re-adding the key"""
+        self.count = 1              
 
 """Class for a tree"""
 class BST:
