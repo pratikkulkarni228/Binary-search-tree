@@ -1,5 +1,5 @@
 # Binary-search-tree
-A binary search tree (Python) with following feaetures:
+A binary search tree (Python) with following features:
 -Insertion
 
 -Inorder traversal and printing
